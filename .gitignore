@@ -1,0 +1,122 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.ipynb_checkpoints/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PySpark / logs
+spark-warehouse/
+derby.log
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Django / Flask stuff (if applicable)
+*.log
+local_settings.py
+db.sqlite3
+
+# Environments and IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Data folders
+data/raw/
+data/processed/
+data/tmp/
+*.csv
+*.tsv
+*.parquet
+*.db
+*.sqlite
+*.json
+*.xml
+*.h5
+*.pkl
+*.joblib
+
+# Machine Learning artifacts
+models/
+checkpoints/
+runs/
+mlruns/
+*.h5
+*.pkl
+*.joblib
+*.onnx
+*.pt
+*.pth
+*.ckpt
+
+# Streamlit / cache / outputs
+.streamlit/
+__pycache__/
+output/
+logs/
+*.log
+
+# MacOS / Linux system files
+.DS_Store
+Thumbs.db
+
+# Other temporary or local files
+*.bak
+*.tmp
+*.swp
+*.zip
+*.tar
+*.gz
+
+# Environment variables / secrets
+.env
+*.env
+credentials.json
+secrets.json
+
+# Diagram exports or generated files
+diagram_pipeline.png
+diagram_pipeline.svg
+
