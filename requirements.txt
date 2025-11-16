@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+xgboost
+mlflow
+prefect
+duckdb
+pyspark
+sentence-transformers
+faiss-cpu
+streamlit
+matplotlib
+seaborn
